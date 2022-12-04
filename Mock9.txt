@@ -1,0 +1,60 @@
+1.How to take screenshot?(with steps)
+2.what is webelement?
+3.Absolute xpath
+4.syntax of xpath by using contains()
+5.what is String in java?
+6.DML statements
+7.Exploratory testing
+8.How to add user story and who adds it?
+9.what is token? ans. smallest element of program
+10.what is finalise?
+11.overloading
+12.driver.quit() Vs. driver.close()
+13.Explain System.setProperty() method
+14.Sanity Vs. smoke testing
+15.Explain getCurrentUrl()
+16.Explain Dimension class
+17.Explain exception handling
+18.Explain sprint retrospective meeting
+19.Advantages of automation testing
+20.How do you select test cases to be executed first from all test cases?
+21.How to register on shaadi.com(scenario and test cases)?
+22.Explain constains
+23.Explain static method
+24.Explain globalaization testing
+25.What is runtime polymorphysm
+26.syntax for xpath by index
+27.what is xpath
+28.what is an interface? explain any to interfaces from selenium
+29.different methods for webelement?
+30.returntype of findElements() method
+31.advantages of java
+32.why String is immutable?
+33.Explain regression testing.
+34.can you tell something about your previous organization and your project in that company?
+35.your roles and resposibilities as a tester
+36.daily schedule
+37.disadvantages of selenium
+38.advantages of selenium
+39.any other automation tools do you know like selenium
+40.navigation methods
+41.when do you perform regression testing?
+42.Explain calculation base testing
+43.Testing techniques
+44.Explain different locators
+45.Explain setPosition() method
+46.How to refresh a page in selenium
+47.Explain local variables
+48.can we use access modifiers with local variables
+49.What is a webdriver
+50.Order by clause
+51.bug reports
+52.syntax for update
+53.DDL commands
+54.backend testing
+55.why v module is expensive?
+56.how to reverse string?
+57.explain charAt() method?
+58.Insert into Vs. select into
+59.SDLC stages
+60.if there is any drop down and there are three elements in it and I want to click all the elements one after another how can I do that? 
